@@ -1,0 +1,27 @@
+header{
+	background-color: #e8b952;
+	padding: 20px 20px 20px 20px;
+	margin-bottom: 20px;
+}
+
+
+body{
+	
+}
+
+
+img{
+
+width:100%;
+}
+.box{
+	border: 1px solid grey;
+	
+}
+.text{padding: 20px 20px 40px 20px}
+
+/*.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}*/
